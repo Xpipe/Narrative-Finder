@@ -1,4 +1,4 @@
-# sentiment-analyser
+# narrative-finder
 
 Get a python git package which trawls Twitter for hastags related to top X coins on binance.
 

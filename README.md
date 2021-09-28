@@ -1,4 +1,4 @@
-# narrative-finder
+# Narrative-Finder
 
 Get a python git package which trawls Twitter for hastags related to top X coins on binance.
 
